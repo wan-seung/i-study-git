@@ -1,3 +1,3 @@
 # play + soccer
 
-gogo
+gogo 짱
